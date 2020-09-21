@@ -25,4 +25,4 @@ Así nacieron las Air Jordan, zapatillas Jordan de la NBA, con los colores de lo
 Su diseñador, Tinker Hatfield, hoy en día es considerado una de las personas que más ha influido a lo largo de la historia en la evolución de las zapatillas de baloncesto.
 
 La acogida de estas míticas zapatillas es tan buena que la filial de Nike ha confeccionado múltiples versiones retro de ellas en diferentes años (1994, 2001, 2003, 2007, 2008, 2009, 2010, 2011...) </p>
-<p>Lea más aquí <a target="_blank" href="https://www.muevetebasket.es/air-jordan-3/zapatillas/9/#:~:text=Las%20originales%20Air%20Jordan%203,del%20a%C3%B1o%20en%20la%20NBA. </a></p>
+<p>Lea más aquí <a target="_blank" href="https://www.muevetebasket.es/air-jordan-3/zapatillas/9/#:~:text=Las%20originales%20Air%20Jordan%203,del%20a%C3%B1o%20en%20la%20NBA.">Jordan Retro 3</a> </p>
