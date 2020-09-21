@@ -3,6 +3,7 @@
         <meta charset="utf-8">
         <title>
             Top 3 Jordan retro
+            </tittle>
         <style>
              h1 {
             
@@ -28,7 +29,7 @@
              li {
              font-size: 1.5em;
              } 
-             </style></title>
+             </style>
     </head>
     <body>
 
