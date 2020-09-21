@@ -65,6 +65,13 @@ En el año 1985, final de año de novato de Michael Jordan fue lanzado el Air Jo
 <p> Hablamos de uno de los modelos de zapatillas más emblemáticos de la saga Air Jordan, el espectacular Air Jordan IV White Cement, uno de los diseños que mas han traído de cabeza a los amantes y seguidores de tan exitosa saga de zapatillas. Este modelo de zapatillas retro fue diseñado por Tinker Hatfield, un diseño que fue el primero en incorporar piezas de goma en el upper, algo hasta ese momento nunca antes visto </p>
 <p>Lea más aquí <a target="_blank" href="http://www.thepoint.es/blog/historia-air-jordan-iv-retro-white-cement.html#:~:text=Este%20modelo%20de%20zapatillas%20retro,se%20pudo%20ver%20este%20colorway">Jordan Retro 4</a> </p>
 <img src="http://www.thepoint.es/blog/wp-content/uploads/2016/02/zapatillas-hombre-air-jordan-iv-retro-white-cement.jpg" Alt="Imagen Jordan retro 4" width="700">
+<h2 id="top-cuatro">Retro 10</h2>
+<p> Cuando las Air Jordan 10 aparecieron por por primera en 1994 vez Jordan estaba retirado... aunque posteriormente pasaron a la historia por ser el modelo con el que "la majestad del aire" regresó por primera vez a las canchas.
+
+Su mayor novedad fue que en su suela quedaban representados los principales logros que Michael había logrado hasta ese momento (3 anillos y sus correspondientes MVP, rookie del año, ganador del concurso de mates...). </p>
+<p>Lea más aquí <a target="_blank" href="https://www.muevetebasket.es/air-jordan-10/zapatillas/245/">Jordan Retro 10</a> </p>
+<img src="https://images-na.ssl-images-amazon.com/images/I/819LBep12kL._AC_UL1500_.jpg" Alt="Imagen Jordan retro 10" width="700">
+
 <h2 id="top-tres">Retro 3</h2>
 <p> Las originales Air Jordan 3 fueron lanzadas en 1988, siendo Michael Jordan con ellas capaz de ganar un concurso de mates, ser MVP de la liga regular y mejor defensor del año en la NBA.
 
