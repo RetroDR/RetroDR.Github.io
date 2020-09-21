@@ -33,7 +33,7 @@
     </head>
     <body>
 
-    <h1>Top 3 Jordan retro!</h1>
+    <h1>Las mejores Jordan retro!</h1>
     
     <h2>Indice</h2>
     <ul>
