@@ -1,7 +1,34 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title> Top 3 mejores Jordan retro</title>
+        <title>
+            Top 3 Jordan retro
+        <style>
+             h1 {
+            
+                   
+                  font-size: 3em; 
+             } 
+             body {
+             background-color: rgb(222, 218, 195);
+             }
+         
+             h2 {
+            
+            
+             font-size: 2.5em; 
+             }
+          
+        
+             p {
+                 color: rgb(0, 0, 0);
+                 font-size: 1.5em;
+             }
+            
+             li {
+             font-size: 1.5em;
+             } 
+             </style></title>
     </head>
     <body>
 
@@ -11,7 +38,7 @@
     <ul>
             <li><a href="#origen">Origen de las zapatillas</a></li>
             <li><a href="#top-tres">Retro 3</a></li>
-            <li><a href="#yummy">Yummy de Justin Bieber</a></li>
+            <li><a href="#top-tres"></a></li>
             <li><a href="#mj">Muerte de Michael Jackson</a></li>
             <li><a href="#Suicidio">Suicidio de Avicci</a></li>
     </ul>
