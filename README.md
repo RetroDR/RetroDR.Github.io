@@ -8,7 +8,7 @@
              h1 {
             
                    
-                  font-size: 3em; 
+                  font-size: 5em; 
              } 
              body {
              background-color: rgb(222, 218, 195);
@@ -17,7 +17,7 @@
              h2 {
             
             
-             font-size: 2.5em; 
+             font-size: 3em; 
              }
           
         
@@ -39,7 +39,7 @@
     <ul>
             <li><a href="#origen">Origen de las zapatillas</a></li>
             <li><a href="#top-tres">Retro 3</a></li>
-            <li><a href="#top-tres"></a>Retro 11</li>
+            <li><a href="#top-tres">Retro 11</a></li>
             <li><a href="#mj">Muerte de Michael Jackson</a></li>
             <li><a href="#Suicidio">Suicidio de Avicci</a></li>
     </ul>
