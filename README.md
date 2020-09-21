@@ -60,5 +60,7 @@ La acogida de estas míticas zapatillas es tan buena que la filial de Nike ha co
 
 </p>
 <p>Lea más aquí <a target="_blank" href="https://sneakerhead.com.ar/la-historia-de-las-air-jordan-xi-concord/">Jordan Retro 11</a> </p>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81g6XrascNL._AC_SX679_.jpg" Alt="Imagen Jordan retro 11" width="700">
+
 </body>
 </html>
