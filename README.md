@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8">
         <title>
-            Top 3 Jordan retro
+            Las mejores Jordan retro
             </title>
         <style>
              h1 {
@@ -38,6 +38,7 @@
     <h2>Indice</h2>
     <ul>
             <li><a href="#origen">Origen de las zapatillas</a></li>
+            <li><a href="#top-cinco">Retro 1</a></li>
             <li><a href="#top-tres">Retro 3</a></li>
             <li><a href="#top-dos">Retro 11</a></li>
             <li><a href="#top-uno">Retro 9</a></li>
@@ -47,6 +48,17 @@
   <h2 id="origen"> Origen de las zapatillas </h2>
   <p> En 1984, Michael Jordan llegó a la NBA como una nueva promesa y no tardó en hacerse notar. Como consecuencia, Nike, hasta entonces una joven marca de zapatillas deportivas, vio en Jordan un negocio multimillonario.
 Así nacieron las Air Jordan, zapatillas Jordan de la NBA, con los colores de los Chicago Bulls (rojo y negro). Fue la primera vez en la historia que Nike lanzaba un diseño personalizado. </p>
+<h2 id="top-cinco">Retro 1</h2>
+<p> Las Air Jordan I se diseñaron para Michael Jordan y aquello supuso muchos cambios. El primero, que por primera vez un jugador negro era la imagen de una marca tan grande como Nike ; la segunda tuvo que ver con el diseño, porque también por primera vez un jugador de la NBA llevaba unas zapatillas que no eran blancas.
+Nike fue tan lejos como pedirle a los padres de Michael Jordan que lo llevaran hasta sus instalaciones, esta línea pretendía lanzar toda una marca completa alrededor de Michael Jordan, pero Jordan no estaba del todo convencido porque no le gustaban los modelos de Nike. Para Jordan las suelas de la marca Nike eran demasiado gruesas y no podía sentir la cancha.
+
+Para poder convencer a Jordan, Nike recapitulo su estilo y realizó el cambio y fue ahí que nació el Air Jordan 1.
+
+El director creativo de la Nike, Peter C. Moore, se encargó del diseño del primer zapato de Jordan, por supuesto bajo las directrices de este, sin embargo a Michael Jordan no le gusto el modelo creado por Moore.
+
+En el año 1985, final de año de novato de Michael Jordan fue lanzado el Air Jordan I, pero como no fue hasta noviembre que estaría listo motivo por el cual Michael Jordan jugó con unas zapatillas diferentes, el Air Ship de Nike. </p>
+<p>Lea más aquí <a target="_blank" href="http://www.passion4kickzpr.com/air-jordan-1-la-historia-detras-del-modelo-parte-i/">Jordan Retro 1</a> </p>
+<img src="https://desempacados.com/wp-content/uploads/2016/07/air-jordan-1-portada--e1469425215801.jpg" Alt="Imagen Jordan retro 1" width="700">
 <h2 id="top-tres">Retro 3</h2>
 <p> Las originales Air Jordan 3 fueron lanzadas en 1988, siendo Michael Jordan con ellas capaz de ganar un concurso de mates, ser MVP de la liga regular y mejor defensor del año en la NBA.
 
