@@ -10,7 +10,7 @@
     <h2>Indice</h2>
     <ul>
             <li><a href="#origen">Origen de las zapatillas</a></li>
-            <li><a href="#personas-relacionadas">Famosos Relacionados</a></li>
+            <li><a href="#top-tres">Retro 3</a></li>
             <li><a href="#yummy">Yummy de Justin Bieber</a></li>
             <li><a href="#mj">Muerte de Michael Jackson</a></li>
             <li><a href="#Suicidio">Suicidio de Avicci</a></li>
@@ -26,3 +26,4 @@ Su diseñador, Tinker Hatfield, hoy en día es considerado una de las personas q
 
 La acogida de estas míticas zapatillas es tan buena que la filial de Nike ha confeccionado múltiples versiones retro de ellas en diferentes años (1994, 2001, 2003, 2007, 2008, 2009, 2010, 2011...) </p>
 <p>Lea más aquí <a target="_blank" href="https://www.muevetebasket.es/air-jordan-3/zapatillas/9/#:~:text=Las%20originales%20Air%20Jordan%203,del%20a%C3%B1o%20en%20la%20NBA.">Jordan Retro 3</a> </p>
+<img src="https://sneakernews.com/wp-content/uploads/2020/01/Air-Jordan-3-Fire-Red-Unite-CK5692-600-5.jpg" Alt="Imagen Jordan retro 3" width="700">
