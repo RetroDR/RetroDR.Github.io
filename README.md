@@ -40,8 +40,8 @@
             <li><a href="#origen">Origen de las zapatillas</a></li>
             <li><a href="#top-tres">Retro 3</a></li>
             <li><a href="#top-dos">Retro 11</a></li>
-            <li><a href="#mj">Muerte de Michael Jackson</a></li>
-            <li><a href="#Suicidio">Suicidio de Avicci</a></li>
+            <li><a href="#top-uno">Retro 9</a></li>
+            
     </ul>
     
   <h2 id="origen"> Origen de las zapatillas </h2>
@@ -61,6 +61,11 @@ La acogida de estas míticas zapatillas es tan buena que la filial de Nike ha co
 </p>
 <p>Lea más aquí <a target="_blank" href="https://sneakerhead.com.ar/la-historia-de-las-air-jordan-xi-concord/">Jordan Retro 11</a> </p>
 <img src="https://images-na.ssl-images-amazon.com/images/I/81g6XrascNL._AC_SX679_.jpg" Alt="Imagen Jordan retro 11" width="700">
+<h2 id="top-uno">Retro 9</h2>
+<p> Las Air Jordan IX son, al menos a simple vista, uno de los diseños más sencillos de Air Jordan. Sin embargo, aunque el diseño de las zapatillas tiene un estilo minimalista, cuentan una de las historias más profundas de esta exclusiva serie icónica. Para abordar el diseño de las Air Jordan IX, Tinker Hatfield volvía a estar al mando. En esta ocasión, buscaba nuevas formas de evolucionar la exclusiva línea. La innovación llegó en forma de suela exterior, una pieza contadora de historias concebida por el diseñador Mark Smith. En su búsqueda del elemento perfecto que contara la historia internacional del baloncesto, Hatfield tuvo la idea de convertir la suela exterior en un lienzo narrativo. Para elaborarla, Smith sería el encargado de insuflar vida al concepto. "Me dijo que debíamos crear una suela exterior capaz de contar una historia internacional. Fue un buen punto de partida", nos explicaba Smith mientras rememoraba los comienzos de las Air Jordan IX. Esta historia internacional pronto se convirtió en la fuerza conductora que motivó el éxito de las zapatillas. Las frases que se incluyeron también eran diferentes en cada zapatilla del par, lo que ayudaba a ofrecer la historia completa haciendo de cada suela exterior un elemento único. "No nos contentábamos solo con añadir un estampado, diseñarlo y darle la vuelta. Decidimos que queríamos mantener el carácter exclusivo", afirma Smith. </p>
+<img src="https://img.mp.itc.cn/upload/20161129/759a8c0036634e5885c45a0857aec658_th.jpeg" Alt="Imagen Jordan retro 9" width="700">
+<p> ZAPATILLA DERECHA: FRANCÉS – "DÉDIÉ"- DEDICACIÓN ESPAÑOL – "FUERZA"- ITALIANO – "INTENSO" – INTENSIDAD FRANCÉS – "LIBERTÉ" – LIBERTAD ALEMÁN – "ANMUTIG" – ELEGANCIA ZAPATILLA IZQUIERDA: RUSO – "СПОРТ" – DEPORTE SWAHILI - "UHURU" – INDEPENDENCIA RUSO – “СВОБО́ДА” – LIBERTAD ALEMÁN – "ATHLETISCH" – DEPORTIVIDAD SWAHILI – "MUUNDAJI" - ESPERANZA. </p>
+<p> Cada frase hace referencia al estilo de vida de MJ tanto dentro como fuera de la cancha. "Hablábamos sobre competición, victorias y sobre el enfoque que debíamos tomar hacia el baloncesto, y acordamos que esos mismos términos debían aludir a mucho más que a este deporte. Debían ser el reflejo de un plan de acción de una vida llena de éxitos. Nos revela Smith al recordar sus diseños. "Una vez más, estábamos trabajando en un proyecto que iba más allá del mero diseño de unas zapatillas. Queríamos contar una historia sobre mostrar bondad a los demás".</p>
 
 </body>
 </html>
