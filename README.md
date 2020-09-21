@@ -67,6 +67,8 @@ La acogida de estas míticas zapatillas es tan buena que la filial de Nike ha co
 <p> ZAPATILLA DERECHA: FRANCÉS – "DÉDIÉ"- DEDICACIÓN ESPAÑOL – "FUERZA"- ITALIANO – "INTENSO" – INTENSIDAD FRANCÉS – "LIBERTÉ" – LIBERTAD ALEMÁN – "ANMUTIG" – ELEGANCIA 
     ZAPATILLA IZQUIERDA: RUSO – "СПОРТ" – DEPORTE SWAHILI - "UHURU" – INDEPENDENCIA RUSO – “СВОБО́ДА” – LIBERTAD ALEMÁN – "ATHLETISCH" – DEPORTIVIDAD SWAHILI – "MUUNDAJI" - ESPERANZA. </p>
 <p> Cada frase hace referencia al estilo de vida de MJ tanto dentro como fuera de la cancha. "Hablábamos sobre competición, victorias y sobre el enfoque que debíamos tomar hacia el baloncesto, y acordamos que esos mismos términos debían aludir a mucho más que a este deporte. Debían ser el reflejo de un plan de acción de una vida llena de éxitos. Nos revela Smith al recordar sus diseños. "Una vez más, estábamos trabajando en un proyecto que iba más allá del mero diseño de unas zapatillas. Queríamos contar una historia sobre mostrar bondad a los demás".</p>
+<img src="https://lh3.googleusercontent.com/proxy/zb-ga6kc6iSS4-_YaOQdnNkVZ3wu5bZ-up9PKXQ_QYNo75svPlFELrWcXoOsANqKr22FeJyhYMTosTzN5T9XexaLUFH5uAWwO-_vZMuXiCWG5FvpNnJ_b_GuVH17dQO_nX8SDgRTBjkC5absudF8-sKgk4kn34jT6DFUEiS2gUPnYuQsWhlQSg_sMGfElNbKO3WrK8j5WZqMXCyuknNtLQz-bfGRSAZR" Alt="Imagen Jordan retro 9" width="700">
+
 
 </body>
 </html>
